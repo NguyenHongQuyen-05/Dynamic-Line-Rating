@@ -1,0 +1,73 @@
+===============================================================================
+ STATISTICAL REPORT: DLR vs SLR CAPACITY GAIN (Static Line Rating = 850.0A) 
+===============================================================================
+
+---> CASE 1 (Period: 2014 - 2016) <---
+  * Year 2014: Avg Fixed Ampacity = 1339.0A (+57.53%) | Avg Dynamic Ampacity = 1348.0A (+58.59%)
+  * Year 2015: Avg Fixed Ampacity = 1361.0A (+60.12%) | Avg Dynamic Ampacity = 1385.4A (+62.99%)
+  * Year 2016: Avg Fixed Ampacity = 1363.9A (+60.46%) | Avg Dynamic Ampacity = 1401.2A (+64.84%)
+  => 3-YEAR SUMMARY: Avg Fixed = 1354.7A (+59.37%) | Avg Dynamic = 1378.2A (+62.14%)
+--------------------------------------------------------------------------------
+
+---> CASE 2 (Period: 2017 - 2019) <---
+  * Year 2017: Avg Fixed Ampacity = 1341.6A (+57.84%) | Avg Dynamic Ampacity = 1347.0A (+58.47%)
+  * Year 2018: Avg Fixed Ampacity = 1361.8A (+60.21%) | Avg Dynamic Ampacity = 1376.1A (+61.90%)
+  * Year 2019: Avg Fixed Ampacity = 1384.6A (+62.89%) | Avg Dynamic Ampacity = 1406.6A (+65.48%)
+  => 3-YEAR SUMMARY: Avg Fixed = 1362.7A (+60.31%) | Avg Dynamic = 1376.6A (+61.95%)
+--------------------------------------------------------------------------------
+
+---> CASE 3 (Period: 2020 - 2022) <---
+  * Year 2020: Avg Fixed Ampacity = 1399.0A (+64.59%) | Avg Dynamic Ampacity = 1402.1A (+64.96%)
+  * Year 2021: Avg Fixed Ampacity = 1407.3A (+65.56%) | Avg Dynamic Ampacity = 1415.9A (+66.57%)
+  * Year 2022: Avg Fixed Ampacity = 1360.2A (+60.03%) | Avg Dynamic Ampacity = 1374.2A (+61.67%)
+  => 3-YEAR SUMMARY: Avg Fixed = 1388.8A (+63.39%) | Avg Dynamic = 1397.4A (+64.40%)
+--------------------------------------------------------------------------------
+
+---> CASE 4 (Period: 2023 - 2025) <---
+  * Year 2023: Avg Fixed Ampacity = 1426.1A (+67.78%) | Avg Dynamic Ampacity = 1428.0A (+68.00%)
+  * Year 2024: Avg Fixed Ampacity = 1454.1A (+71.07%) | Avg Dynamic Ampacity = 1459.3A (+71.68%)
+  * Year 2025: Avg Fixed Ampacity = 1467.0A (+72.59%) | Avg Dynamic Ampacity = 1475.1A (+73.54%)
+  => 3-YEAR SUMMARY: Avg Fixed = 1449.1A (+70.48%) | Avg Dynamic = 1454.1A (+71.07%)
+--------------------------------------------------------------------------------
+
+---> CASE 5 (Period: 2026 - 2028) <---
+  * Year 2026: Avg Fixed Ampacity = 1434.6A (+68.77%) | Avg Dynamic Ampacity = 1435.9A (+68.93%)
+  * Year 2027: Avg Fixed Ampacity = 1454.8A (+71.15%) | Avg Dynamic Ampacity = 1458.6A (+71.61%)
+  * Year 2028: Avg Fixed Ampacity = 1457.4A (+71.46%) | Avg Dynamic Ampacity = 1463.4A (+72.16%)
+  => 3-YEAR SUMMARY: Avg Fixed = 1448.9A (+70.46%) | Avg Dynamic = 1452.6A (+70.90%)
+--------------------------------------------------------------------------------
+
+---> CASE 6 (Period: 2029 - 2031) <---
+  * Year 2029: Avg Fixed Ampacity = 1400.9A (+64.81%) | Avg Dynamic Ampacity = 1401.8A (+64.92%)
+  * Year 2030: Avg Fixed Ampacity = 1419.7A (+67.02%) | Avg Dynamic Ampacity = 1422.1A (+67.31%)
+  * Year 2031: Avg Fixed Ampacity = 1442.1A (+69.66%) | Avg Dynamic Ampacity = 1445.9A (+70.11%)
+  => 3-YEAR SUMMARY: Avg Fixed = 1420.9A (+67.17%) | Avg Dynamic = 1423.3A (+67.45%)
+--------------------------------------------------------------------------------
+
+---> CASE 7 (Period: 2032 - 2034) <---
+  * Year 2032: Avg Fixed Ampacity = 1435.7A (+68.91%) | Avg Dynamic Ampacity = 1436.3A (+68.97%)
+  * Year 2033: Avg Fixed Ampacity = 1443.3A (+69.81%) | Avg Dynamic Ampacity = 1444.9A (+69.98%)
+  * Year 2034: Avg Fixed Ampacity = 1397.9A (+64.46%) | Avg Dynamic Ampacity = 1400.3A (+64.75%)
+  => 3-YEAR SUMMARY: Avg Fixed = 1425.7A (+67.73%) | Avg Dynamic = 1427.2A (+67.90%)
+--------------------------------------------------------------------------------
+
+---> CASE 8 (Period: 2035 - 2037) <---
+  * Year 2035: Avg Fixed Ampacity = 1449.6A (+70.54%) | Avg Dynamic Ampacity = 1449.9A (+70.58%)
+  * Year 2036: Avg Fixed Ampacity = 1477.1A (+73.77%) | Avg Dynamic Ampacity = 1478.0A (+73.88%)
+  * Year 2037: Avg Fixed Ampacity = 1490.0A (+75.30%) | Avg Dynamic Ampacity = 1491.4A (+75.46%)
+  => 3-YEAR SUMMARY: Avg Fixed = 1472.2A (+73.20%) | Avg Dynamic = 1473.1A (+73.31%)
+--------------------------------------------------------------------------------
+
+---> CASE 9 (Period: 2038 - 2040) <---
+  * Year 2038: Avg Fixed Ampacity = 1450.4A (+70.64%) | Avg Dynamic Ampacity = 1450.6A (+70.66%)
+  * Year 2039: Avg Fixed Ampacity = 1470.4A (+72.99%) | Avg Dynamic Ampacity = 1471.0A (+73.06%)
+  * Year 2040: Avg Fixed Ampacity = 1473.0A (+73.29%) | Avg Dynamic Ampacity = 1473.9A (+73.40%)
+  => 3-YEAR SUMMARY: Avg Fixed = 1464.6A (+72.31%) | Avg Dynamic = 1465.2A (+72.38%)
+--------------------------------------------------------------------------------
+
+---> CASE 10 (Period: 2041 - 2043) <---
+  * Year 2041: Avg Fixed Ampacity = 1411.0A (+66.00%) | Avg Dynamic Ampacity = 1411.1A (+66.02%)
+  * Year 2042: Avg Fixed Ampacity = 1429.6A (+68.18%) | Avg Dynamic Ampacity = 1429.9A (+68.23%)
+  * Year 2043: Avg Fixed Ampacity = 1452.0A (+70.82%) | Avg Dynamic Ampacity = 1452.5A (+70.88%)
+  => 3-YEAR SUMMARY: Avg Fixed = 1430.8A (+68.33%) | Avg Dynamic = 1431.2A (+68.38%)
+--------------------------------------------------------------------------------
